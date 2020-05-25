@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaeaed17-48da-45dc-a616-68e1fb1b6d20" name="Default Changelist" comment="" />
+    <list default="true" id="eaeaed17-48da-45dc-a616-68e1fb1b6d20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Concurrency/chapter1/Beetle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Concurrency/chapter1/CADSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Concurrency/chapter1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Concurrency/chapter1/FinalData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Concurrency/chapter1/Hide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Concurrency/chapter1/TryConcurrency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise/Client_Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercise/Server_Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IOEx/BufferedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IOEx/FileInputOutputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IOEx/FileReaderWriterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IOEx/InputStreamReaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IOEx/OtherStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IOEx/Pictest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OnJava8/EnumEx/SimpleEnumUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OnJava8/EnumEx/Spiciness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/CovariantReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/FieldAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/Music2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/PolyConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/RTTI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/Wind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UDP/MessageCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UDP/UDPProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UDP/UDPSearcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Client.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -47,30 +84,88 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-459496149">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="6" />
+          <entry key="java" value="81" />
+          <entry key="jpg" value="8" />
+          <entry key="json" value="1" />
+          <entry key="kt" value="1" />
+          <entry key="txt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="6" />
+          <entry key="Image" value="8" />
+          <entry key="JAVA" value="81" />
+          <entry key="JSON" value="1" />
+          <entry key="Kotlin" value="1" />
+          <entry key="PLAIN_TEXT" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="13331" />
+          <entry key="txt" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="13331" />
+          <entry key="PLAIN_TEXT" value="17" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Server.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/CovariantReturn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+            <state relative-caret-position="395">
+              <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#686#687#0" expanded="true" />
-                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#87#88#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Client.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/RTTI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            <state relative-caret-position="286">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#65#66#0" expanded="true" />
+                <element signature="e#101#102#0" expanded="true" />
+                <element signature="e#122#123#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,9 +176,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package.json" />
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -264,7 +369,9 @@
     <option name="modificationStamps">
       <map>
         <entry key="$PROJECT_DIR$" value="6352534552000" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="2980425503" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="315264104" />
       </map>
     </option>
@@ -381,8 +488,39 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/package.json" />
+        <option value="$PROJECT_DIR$/src/main/java/IOEx/FileInputOutputTest.java" />
+        <option value="$PROJECT_DIR$/README.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/IOEx/BufferedTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IOEx/FileReaderWriterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IOEx/Pictest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IOEx/InputStreamReaderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IOEx/OtherStreamTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Client.java" />
         <option value="$PROJECT_DIR$/src/main/java/Server.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UDP/MessageCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UDP/UDPProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UDP/UDPSearcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Concurrency/chapter1/TryConcurrency.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Concurrency/chapter1/CADSystem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Concurrency/chapter1/Hide.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Concurrency/chapter1/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Concurrency/chapter1/FinalData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Concurrency/chapter1/Beetle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OnJava8/Instrument.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/Note.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OnJava8/EnumEx/SimpleEnumUSe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OnJava8/EnumEx/Spiciness.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OnJava8/EnumEx/SimpleEnumUse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/Instrument.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/Music/Music.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/Music.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/Wind.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/Music2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/FieldAccess.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/PolyConstructors.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/CovariantReturn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/RTTI.java" />
       </list>
     </option>
   </component>
@@ -398,66 +536,72 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="799" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="SocketDemo-L-2-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SocketDemo-L-2-3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="SocketEx" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="SocketDemo-L-2-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SocketDemo-L-2-3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SocketDemo-L-2-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SocketDemo-L-2-3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SocketDemo-L-2-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SocketDemo-L-2-3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SocketDemo-L-2-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SocketDemo-L-2-3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="SocketEx" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SocketDemo-L-2-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SocketDemo-L-2-3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="SocketEx" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="SocketDemo-L-2-3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SocketEx" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SocketDemo-L-2-3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SocketEx" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="OnJava8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="SocketEx&#9;PSI&#9;JAVA://java.net.SocketException" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588138290804" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590384133291" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -472,29 +616,86 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Client" />
+  <component name="RunManager" selected="Application.RTTI">
+    <configuration name="CovariantReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnJava8.Polymorphism.CovariantReturn" />
       <module name="SocketDemo-L-2-3_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OnJava8.Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Server" />
+    <configuration name="FieldAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnJava8.Polymorphism.FieldAccess" />
       <module name="SocketDemo-L-2-3_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OnJava8.Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Music2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnJava8.Polymorphism.Music2" />
+      <module name="SocketDemo-L-2-3_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OnJava8.Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolyConstructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnJava8.Polymorphism.PolyConstructors" />
+      <module name="SocketDemo-L-2-3_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OnJava8.Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RTTI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnJava8.Polymorphism.RTTI" />
+      <module name="SocketDemo-L-2-3_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OnJava8.Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Server" />
-      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Music2" />
+      <item itemvalue="Application.FieldAccess" />
+      <item itemvalue="Application.PolyConstructors" />
+      <item itemvalue="Application.CovariantReturn" />
+      <item itemvalue="Application.RTTI" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.RTTI" />
+        <item itemvalue="Application.CovariantReturn" />
+        <item itemvalue="Application.PolyConstructors" />
+        <item itemvalue="Application.FieldAccess" />
+        <item itemvalue="Application.Music2" />
       </list>
     </recent_temporary>
   </component>
@@ -509,91 +710,105 @@
       <option name="presentableId" value="Default" />
       <updated>1588133629768</updated>
       <workItem from="1588133635144" duration="4188000" />
+      <workItem from="1588141140607" duration="6918000" />
+      <workItem from="1588222113773" duration="357000" />
+      <workItem from="1588222498955" duration="6313000" />
+      <workItem from="1588398786489" duration="622000" />
+      <workItem from="1588742871134" duration="5928000" />
+      <workItem from="1589180481916" duration="322000" />
+      <workItem from="1589870262720" duration="1004000" />
+      <workItem from="1590068939325" duration="13000" />
+      <workItem from="1590300004317" duration="12958000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Pictest_encryption - 2020.05.01 at 15h 42m 55s.xml">
+      <configuration name="Pictest.encryption" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Pictest_test - 2020.05.01 at 15h 45m 15s.xml">
+      <configuration name="Pictest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Pictest_test - 2020.05.01 at 15h 46m 01s.xml">
+      <configuration name="Pictest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Pictest_test - 2020.05.01 at 15h 46m 27s.xml">
+      <configuration name="Pictest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Pictest_decryption - 2020.05.01 at 15h 46m 44s.xml">
+      <configuration name="Pictest.decryption" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Pictest_test - 2020.05.01 at 15h 47m 23s.xml">
+      <configuration name="Pictest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InputStreamReaderTest_test1 - 2020.05.01 at 16h 20m 13s.xml">
+      <configuration name="InputStreamReaderTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InputStreamReaderTest_test1 - 2020.05.01 at 16h 20m 48s.xml">
+      <configuration name="InputStreamReaderTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InputStreamReaderTest_test2 - 2020.05.01 at 16h 24m 43s.xml">
+      <configuration name="InputStreamReaderTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OtherStreamTest_test1 - 2020.05.01 at 16h 59m 31s.xml">
+      <configuration name="OtherStreamTest.test1" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4188000" />
+    <option name="totallyTimeSpent" value="38623000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="799" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Learn" weight="0.3297568" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17167382" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2067239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.2807229" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Run with VisualVM" />
-      <window_info anchor="bottom" id="Terminal" weight="0.49759036" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
-      <window_info anchor="bottom" id="Debug with VisualVM" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27228916" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="PlantUML" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Flutter Inspector" />
-      <window_info anchor="right" id="Flutter Outline" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" weight="0.3297568" />
+      <window_info anchor="bottom" id="Thumbnails" order="0" weight="0.32956153" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.23903818" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.2807229" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.28288543" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flutter Performance" order="14" sideWeight="0.5007153" side_tool="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.3281471" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="16" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="PlantUML" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Flutter Inspector" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Flutter Outline" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+      <window_info anchor="right" id="Gradle" order="10" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="12" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Learn" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.17167382" />
-      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="0" visible="true" weight="0.2807229" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Debug with VisualVM" order="7" />
-      <window_info anchor="bottom" id="Message" order="8" />
-      <window_info anchor="bottom" id="Find" order="9" />
-      <window_info anchor="bottom" id="Run" order="10" />
-      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="14" />
-      <window_info anchor="right" id="PlantUML" order="0" />
-      <window_info anchor="right" id="Palette" order="1" />
-      <window_info anchor="right" id="Flutter Inspector" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Flutter Outline" order="9" />
-      <window_info anchor="right" id="Commander" order="10" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="11" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="12" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -602,49 +817,457 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/net/InetAddress.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/IOEx/Pictest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="1489" column="24" lean-forward="true" selection-start-line="1489" selection-start-column="24" selection-end-line="1489" selection-end-column="24" />
+        <state relative-caret-position="-89">
+          <caret line="59" column="56" selection-start-line="59" selection-start-column="56" selection-end-line="59" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/classes/Server.class">
+    <entry file="file://$PROJECT_DIR$/README_GBK.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IOEx/InputStreamReaderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#2261#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="403">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/classes/Client.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/io/Reader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#2529#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="459">
+          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/io/InputStreamReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="61" column="41" lean-forward="true" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="940" column="24" selection-start-line="940" selection-start-column="24" selection-end-line="940" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/io/OutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="31" column="6" lean-forward="true" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IOEx/OtherStreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/io/PrintWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="129" column="29" lean-forward="true" selection-start-line="129" selection-start-column="29" selection-end-line="129" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/io/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="144" column="25" selection-start-line="144" selection-start-column="25" selection-end-line="144" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="502" column="26" selection-start-line="502" selection-start-column="26" selection-end-line="502" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        <state relative-caret-position="17">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Exercise/Server_Ex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Server.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+        <state relative-caret-position="476">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/net/SocketException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/net/DatagramPacket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="82" column="11" selection-start-line="82" selection-start-column="11" selection-end-line="82" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/UDP/UDPProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="86" column="1" selection-start-line="86" selection-start-column="1" selection-end-line="91" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/UDP/MessageCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/UDP/UDPSearcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Exercise/Client_Ex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-768">
+          <caret line="446" column="11" selection-start-line="446" selection-start-column="11" selection-end-line="446" selection-end-column="11" />
+          <folding>
+            <element signature="e#15020#15021#0" expanded="true" />
+            <element signature="e#15084#15085#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/chapter1/CADSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#58#59#0" expanded="true" />
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/chapter1/TryConcurrency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/chapter1/Hide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding>
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/chapter1/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="134" column="25" lean-forward="true" selection-start-line="134" selection-start-column="25" selection-end-line="134" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/chapter1/FinalData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#686#687#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#72#73#0" expanded="true" />
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Concurrency/chapter1/Beetle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OnJava8/enum/Spiciness.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/classes/OnJava8/EnumEx/Spiciness.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/classes/OnJava8/EnumEx/SimpleEnumUse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1818">
+          <caret line="101" column="21" selection-start-line="101" selection-start-column="21" selection-end-line="101" selection-end-column="21" />
+          <folding>
+            <element signature="e#2979#2980#0" expanded="true" />
+            <element signature="e#3009#3010#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OnJava8/EnumEx/SimpleEnumUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OnJava8/EnumEx/Spiciness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/Instrument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="109" column="36" selection-start-line="109" selection-start-column="36" selection-end-line="109" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/Music.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/Wind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/FieldAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/Music2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/classes/OnJava8/Polymorphism/Glyph.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/classes/OnJava8/Polymorphism/RoundGlyph.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/classes/OnJava8/Polymorphism/PolyConstructors.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/PolyConstructors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <element signature="e#60#61#0" expanded="true" />
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/CovariantReturn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+          <folding>
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OnJava8/Polymorphism/RTTI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#65#66#0" expanded="true" />
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
           </folding>
         </state>
       </provider>
